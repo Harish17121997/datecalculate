@@ -1,0 +1,29 @@
+.m_con{
+  width: 100%;
+  background-color: wheat;
+  display: flex;
+}
+.innercon{
+  width: 100%;
+  border: 1px solid black;
+  text-align: center;
+}
+.nav{
+  background-color: lightgreen;
+  padding: 7px;
+  
+}
+.img img{
+  width: 100px;
+  height: 15vh;
+}
+.date{
+  text-align: center;
+  padding: 10px;
+  padding-left: 25px;
+}
+.date input{
+  padding: 4px 20px;
+ 
+  
+}
